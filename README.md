@@ -10,7 +10,7 @@ I developed an online chat platform. This endeavor revolves around establishing 
 To begin, execute the server.py file. Once the server.py file has been run, proceed to run the client.py file for each individual user.
 
 ## Users Actions
-* Kick users (only for admins!)
+* Kick users (exclusive to administrators!)
 
 ![Screenshot 2024-04-30 125409](https://github.com/AmitLevyTzedek/Online-Group-Chat/assets/149254002/b81d341b-aa8a-468c-bc02-83eb3b2d6465)
 
@@ -31,3 +31,7 @@ To begin, execute the server.py file. Once the server.py file has been run, proc
 
 ![image](https://github.com/AmitLevyTzedek/Online-Group-Chat/assets/149254002/92a8ed47-f522-4ffa-9618-d6ceaaf25676)
 
+
+* send file to specific member (exclusive to administrators!)
+
+![image](https://github.com/AmitLevyTzedek/Online-Group-Chat/assets/149254002/694ed7a5-fb2e-4036-9db1-d9574d2dc89e)
