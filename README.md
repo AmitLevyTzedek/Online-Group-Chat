@@ -27,3 +27,5 @@ To begin, execute the server.py file. Once the server.py file has been run, proc
 * Send file to all the group members
 
 ![image](https://github.com/AmitLevyTzedek/Online-Group-Chat/assets/149254002/526901cb-636a-477b-9f5a-daac045ec16b)
+![image](https://github.com/AmitLevyTzedek/Online-Group-Chat/assets/149254002/92a8ed47-f522-4ffa-9618-d6ceaaf25676)
+
