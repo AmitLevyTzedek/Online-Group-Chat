@@ -18,3 +18,8 @@ To begin, execute the server.py file. Once the server.py file has been run, proc
 * Change password
 
 ![image](https://github.com/AmitLevyTzedek/Online-Group-Chat/assets/149254002/c70fc8e3-1526-4a51-9090-376a745b3602)
+
+
+* Change room
+
+  
