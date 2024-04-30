@@ -22,5 +22,5 @@ To begin, execute the server.py file. Once the server.py file has been run, proc
 
 * Change room
 
-  ![image](https://github.com/AmitLevyTzedek/Online-Group-Chat/assets/149254002/5d2e9dda-80c7-40cc-84e7-91e661874e7a)
+![image](https://github.com/AmitLevyTzedek/Online-Group-Chat/assets/149254002/5d2e9dda-80c7-40cc-84e7-91e661874e7a)
 
