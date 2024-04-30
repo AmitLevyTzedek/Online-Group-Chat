@@ -13,3 +13,8 @@ To begin, execute the server.py file. Once the server.py file has been run, proc
 * Kick users (only for admins!)
 
 ![Screenshot 2024-04-30 125409](https://github.com/AmitLevyTzedek/Online-Group-Chat/assets/149254002/b81d341b-aa8a-468c-bc02-83eb3b2d6465)
+
+
+* Change password
+
+![image](https://github.com/AmitLevyTzedek/Online-Group-Chat/assets/149254002/c70fc8e3-1526-4a51-9090-376a745b3602)
